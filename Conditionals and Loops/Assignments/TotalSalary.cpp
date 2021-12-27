@@ -48,6 +48,4 @@ int main() {
     }
     totalSalary=basic + hra + da + allow - pf;
     cout<<lround(totalSalary);
-    
-    
 }
